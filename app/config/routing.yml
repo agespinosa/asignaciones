@@ -1,0 +1,4 @@
+app:
+    resource: "@AGEUserBundle/Controller/"
+    type:     annotation
+
